@@ -11,7 +11,7 @@ The goal is to analyze and compare efficiency, scalability, and privacy guarante
 - Block Size Impact
 - Time Taken to Vote
   
-:woman_technologist: ## Setup Instructions
+ ## :woman_technologist: Setup Instructions
 Prequisite: Solidity, Node, Hardhat installed
 
 ### Step 1: Install Backend Dependencies
